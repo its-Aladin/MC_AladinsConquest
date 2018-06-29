@@ -1,0 +1,23 @@
+{
+"__comment": "Fair warning, this format is highly likely to change even more in the future!",
+"ambientocclusion": false,
+"parent": "block/block", 
+"textures": {
+    "particle": "blocks/door_birch_lower",
+    "bottom": "blocks/door_birch_lower"
+},
+"elements": [ 
+{
+    "from": [ 0, 0, 0 ],
+    "to": [ 2, 16, 16 ],
+    "faces": {
+        "down":  { "uv": [ 14, 16, 16, 0 ], "texture": "#bottom", "cullface": "down" },
+        "up":    { "uv": [ 0, 0, 2, 16 ], "texture": "#bottom", "cullface": "up" },
+        "north": { "uv": [ 16, 0, 14, 16 ], "texture": "#bottom", "cullface": "north" },
+        "south": { "uv": [ 0, 0, 2, 16 ], "texture": "#bottom", "cullface": "south" },
+        "west":  { "uv": [ 16, 0, 0, 16 ], "texture": "#bottom", "cullface": "west" },
+        "east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#bottom" }
+    }
+}
+]
+}

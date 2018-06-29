@@ -1,0 +1,12 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "bites=0": { "model": "cake_uneaten", "y": 90 },
+        "bites=1": { "model": "cake_slice1", "y": 90 },
+        "bites=2": { "model": "cake_slice2", "y": 90 },
+        "bites=3": { "model": "cake_slice3", "y": 90 },
+        "bites=4": { "model": "cake_slice4", "y": 90 },
+        "bites=5": { "model": "cake_slice5", "y": 90 },
+        "bites=6": { "model": "cake_slice6", "y": 90 }
+    }
+}

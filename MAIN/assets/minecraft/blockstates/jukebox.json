@@ -1,0 +1,11 @@
+{
+    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+    "variants": {
+        "normal": [
+            { "model": "jukebox", "y": 0 },
+            { "model": "jukebox", "y": 90 },
+            { "model": "jukebox", "y": 180 },
+            { "model": "jukebox", "y": 270 }
+        ]
+    }
+}

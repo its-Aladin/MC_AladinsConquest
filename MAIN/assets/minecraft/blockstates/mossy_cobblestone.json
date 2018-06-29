@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=east": { "model": "mossy_cobblestone" },
+        "facing=south": { "model": "mossy_cobblestone", "y": 90, "uvlock": true },
+        "facing=west": { "model": "mossy_cobblestone", "y": 180, "uvlock": true },
+        "facing=north": { "model": "mossy_cobblestone", "y": 270, "uvlock": true }
+    }
+}
