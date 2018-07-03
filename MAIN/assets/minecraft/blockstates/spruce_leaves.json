@@ -1,6 +1,7 @@
 {
-    "__comment": "Created by Filal",
     "variants": {
-        "normal":  { "model": "leaves_spruce" }
+        "normal":[ { "model": "spruce_leaves" },
+        		  { "model": "spruce_leaves_2"}
+        		 ]
     }
 }
